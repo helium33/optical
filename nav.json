@@ -1,0 +1,1340 @@
+{
+  "navbar": [
+    
+      {
+        "id": 1,
+        "name": "Sunglasses",
+        "link": "/sunglasses",
+        "categories": [
+          { "id": 1, "title": "All", "filter": "all", "link": "/sunglasses" },
+          { "id": 2, "title": "New Arrivals", "filter": "new", "link": "/sunglasses/new" },
+          { "id": 3, "title": "Bestsellers", "filter": "bestseller", "link": "/sunglasses/bestseller" },
+          { "id": 4, "title": "Men's Sunglasses", "filter": "men", "link": "/sunglasses/men" },
+          { "id": 5, "title": "Women's Sunglasses", "filter": "women", "link": "/sunglasses/women" },
+          { "id": 6, "title": "Kids' Sunglasses", "filter": "kids", "link": "/sunglasses/kids" },
+          { "id": 7, "title": "Photochromic Sunglasses", "filter": "photochromic", "link": "/sunglasses/photochromic" },
+          { "id": 8, "title": "Polarized Sunglasses", "filter": "polarized", "link": "/sunglasses/polarized" },
+          { "id": 9, "title": "UV Protection Sunglasses", "filter": "uv-protection", "link": "/sunglasses/uv-protection" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lenses",
+        "link": "/lenses",
+        "categories": [
+          { "id": 1, "title": "All", "filter": "all", "link": "/all" },
+          { "id": 2, "title": "Polarized Sunglasses", "filter": "Polarized Sunglasses", "link": "/polarized-sunglasses" },
+          { "id": 3, "title": "Blue Light Glasses", "filter": "Blue Light Glasses", "link": "/blue-light-glasses" },
+          { "id": 4, "title": "Reading Glasses", "filter": "Reading Glasses", "link": "/reading-glasses" },
+          { "id": 5, "title": "Transitions®", "filter": "Transitions®", "link": "/transitions" },
+          { "id": 6, "title": "Bifocal Lenses", "filter": "Bifocal Lenses", "link": "/bifocal-lenses" },
+          { "id": 7, "title": "Progressive Lenses", "filter": "Progressive Lenses", "link": "/progressive-lenses" },
+          { "id": 8, "title": "Prism Lenses", "filter": "Prism Lenses", "link": "/prism-lenses" },
+          { "id": 9, "title": "KODAK Lenses", "filter": "KODAK Lenses", "link": "/kodak-lenses" },
+          { "id": 10, "title": "Coatings", "filter": "Coatings", "link": "/coatings" },
+          { "id": 11, "title": "Anti-Reflective Coating", "filter": "Anti-Reflective Coating", "link": "/anti-reflective-coating" },
+          { "id": 12, "title": "Mirrored Sunglasses", "filter": "Mirrored Sunglasses", "link": "/mirrored-sunglasses" }
+         
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Eyeglasses",
+        "link": "/eyeglasses",
+        "categories": [
+          { "id": 1, "title": "All", "filter": "all", "link": "/eyeglasses" },
+          { "id": 2, "title": "New Arrivals", "filter": "new", "link": "/eyeglasses/new" },
+          { "id": 3, "title": "Bestsellers", "filter": "bestseller", "link": "/eyeglasses/bestseller" },
+          { "id": 4, "title": "Men's Eyeglasses", "filter": "men", "link": "/eyeglasses/men" },
+          { "id": 5, "title": "Women's Eyeglasses", "filter": "women", "link": "/eyeglasses/women" },
+          { "id": 6, "title": "Kids' Eyeglasses", "filter": "kids", "link": "/eyeglasses/kids" },
+          { "id": 7, "title": "Blue Light Blocking", "filter": "blue-light-blocking", "link": "/eyeglasses/blue-light-blocking" },
+          { "id": 8, "title": "Prescription Eyeglasses", "filter": "prescription", "link": "/eyeglasses/prescription" }
+        ]
+      }
+    
+    ],
+    
+ 
+  
+  "features": [
+  {
+    "id": 1,
+    "name": "Romy Glasses",
+    "price": 49.99,
+    "stock": 20,
+    "star": 4.5,
+    "description": "Stylish, lightweight glasses that provide a perfect fit with a sleek, modern design. Ideal for everyday use or as a fashion statement.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/pl7485_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pl7487_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pl7486_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Black", "Transparent", "Navy"]
+  },
+  {
+    "id": 2,
+    "name": "St Michel Glasses",
+    "price": 35.99,
+    "stock": 15,
+    "star": 4.7,
+    "description": "Classic and timeless design with premium metal frames. Perfect for those who appreciate a touch of sophistication.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6567_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6568_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6569_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Gold", "Sliver", "Black"]
+  },
+  {
+    "id": 3,
+    "name": "Blue Light Blocking Glasses",
+    "price": 29.99,
+    "stock": 30,
+    "star": 4.8,
+    "description": "These glasses are designed to reduce eye strain from digital screens, helping you stay productive and comfortable for longer.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/pm1628_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pm0548_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pm1629_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Transparent", "Black", "Blue"]
+  },
+  {
+    "id": 4,
+    "name": "Good Vibrations",
+    "price": 59.99,
+    "stock": 10,
+    "star": 4.6,
+    "description": "With its bold design and premium materials, this frame exudes a confident style that's perfect for the fashion-forward individual.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/smt6169_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/smt6170_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/smt6171_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Black", "Gold", "Silver"]
+  },
+  {
+    "id": 5,
+    "name": "Oversized Fashion Glasses",
+    "price": 42.99,
+    "stock": 25,
+    "star": 4.4,
+    "description": "Make a statement with these oversized frames that are perfect for a bold, fashion-forward look. Ideal for sunny days or adding some edge to your outfit.",
+    "image": "https://img.ebdcdn.com/product/front/gray/pm1628.jpg?q=70&im=Resize,width=360,height=180,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+    "colors": ["Pink", "Black", "White"]
+  },
+  {
+    "id": 6,
+    "name": "Parasol Sunglasses",
+    "price": 55.00,
+    "stock": 12,
+    "star": 4.7,
+    "description": "These high-quality sunglasses provide ultimate UV protection while offering a chic, contemporary style. Perfect for outdoor adventures.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/spl8008_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/spl8009_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/spl8010_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Light Tortoise", "Tortoise", "Black"]
+  },
+  {
+    "id": 7,
+    "name": "Ember Glasses",
+    "price": 31.99,
+    "stock": 18,
+    "star": 4.3,
+    "description": "A sleek and minimalist design that enhances any look, with versatile frames that suit both casual and professional outfits.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6508_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6507_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6509_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Transparent", "Sliver", "Black"]
+  },
+  {
+    "id": 8,
+    "name": "Notting Hill Sunglasses",
+    "price": 47.50,
+    "stock": 22,
+    "star": 4.6,
+    "description": "Add a vintage touch to your summer wardrobe with these retro-inspired sunglasses. Designed for style and comfort.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/pl4962_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pl7785_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/pl4961_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Black", "Clear", "Tortoise"]
+  },
+  {
+    "id": 9,
+    "name": "Polarized Outdoor Sunglasses",
+    "price": 65.00,
+    "stock": 8,
+    "star": 4.9,
+    "description": "Specially designed for outdoor activities, these polarized sunglasses offer enhanced visual clarity and protect your eyes from harmful UV rays.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/luspl00477_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/luspl00478_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/luspl00479_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Tortoise", "Mettle Black", "Black"]
+  },
+  {
+    "id": 10,
+    "name": "Vintage Cat Eye Glasses",
+    "price": 38.99,
+    "stock": 14,
+    "star": 4.5,
+    "description": "These cat-eye frames offer a bold retro aesthetic while providing a unique twist with modern materials for comfort and durability.",
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt7926_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt7927_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt7928_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "colors": ["Rose Gold", "Gold", "Black"]
+  }
+],
+
+    
+   "Quiz" : [
+      {
+        "id": 1,
+        "question": "မျက်မှန်မတော်တဆ ဝတ်ဆင်ခြင်းက ဘာကြောင့် အန္တရာယ်ဖြစ်နိုင်သလဲ?",
+        "options": ["မျက်စိပင်ပန်းခြင်း", "မြင်ကြည်မှုကျဆင်းခြင်း", "မျက်စိဖိအားတိုးခြင်း"],
+        "answer": "မြင်ကြည်မှုကျဆင်းခြင်း"
+      },
+      {
+        "id": 2,
+        "question": "မျက်စိကောင်းမွန်ဖို့ မည်သည့် အာဟာရကို စားသင့်သလဲ?",
+        "options": ["စစ်ကောင်များ", "နံရံခေါက်ဆွဲ", "နာနတ်အညွန့်များ"],
+        "answer": "နာနတ်အညွန့်များ"
+      },
+      {
+        "id": 3,
+        "question": "မျက်စိအတွက် အထူးကောင်းမွန်သော ဗီတာမင်မည်သည့်အစုနှင့်သက်ဆိုင်ပါသလဲ?",
+        "options": ["ဗီတာမင် A", "ဗီတာမင် C", "ဗီတာမင် D"],
+        "answer": "ဗီတာမင် A"
+      },
+      {
+        "id": 4,
+        "question": "မညျက်စိကို နေရောင်ခြည်က ဘာကြောင့်ထိခိုက်နိုင်သလဲ?",
+        "options": ["UV ရောင်ခြည်ကြောင့်", "နွေရာသီကြောင့်", "အပူလှိုင်းကြောင့်"],
+        "answer": "UV ရောင်ခြည်ကြောင့်"
+      },
+      {
+        "id": 5,
+        "question": "မျက်စိခြောက်သွေ့မှုကို ကာကွယ်ရန် ဘာလုပ်သင့်သလဲ?",
+        "options": ["ပိုမိုအိပ်စက်ခြင်း", "မျက်စိကို မမြဲမြံစေခြင်း", "စစ်ကောင်များစားခြင်း"],
+        "answer": "ပိုမိုအိပ်စက်ခြင်း"
+      },
+      {
+        "id": 6,
+        "question": "Screen ကြည့်ချိန်များလွန်းပါက မျက်စိအတွက် ဘာထိခိုက်မှုရှိနိုင်သလဲ?",
+        "options": ["မျက်စိဖိအားတိုးခြင်း", "မျက်စိခြောက်သွေ့ခြင်း", "နှစ်ခုစလုံး"],
+        "answer": "နှစ်ခုစလုံး"
+      },
+      {
+        "id": 7,
+        "question": "မျက်မှန်ဝတ်ဆင်ရာတွင် မည်သည့်အချက်ကို အလေးထားသင့်သလဲ?",
+        "options": ["ပုံသဏ္ဌာန်", "စျေးနှုန်း", "မျက်စိအတွက် ကိုက်ညီမှု"],
+        "answer": "မျက်စိအတွက် ကိုက်ညီမှု"
+      },
+      {
+        "id": 8,
+        "question": "Contact Lens ကို ဘယ်လောက်ကြာကြာ သုံးသင့်သလဲ?",
+        "options": ["တနေ့တစ်လ", "တစ်နှစ်", "သတ်မှတ်ချိန်အတိုင်း"],
+        "answer": "သတ်မှတ်ချိန်အတိုင်း"
+      },
+      {
+        "id": 9,
+        "question": "မျက်စိထိခိုက်မှုဖြစ်ရခြင်း၏ အဓိကအကြောင်းတစ်ခုသည်?",
+        "options": ["စွဲစွဲလန်းလန်း ဖတ်ခြင်း", "UV ရောင်ခြည်ထိခြင်း", "လျှပ်စစ်မီးသုံးခြင်း"],
+        "answer": "UV ရောင်ခြည်ထိခြင်း"
+      },
+      {
+        "id": 10,
+        "question": "မညျက်စိအတွက် သင့်တော်သော နေ့စဉ်အလေ့အထ?",
+        "options": ["မျက်လုံးထိုးသွင်းခြင်း", "မျက်လုံးလေ့ကျင့်ခြင်း", "အမြဲမျက်မှန်ဝတ်ခြင်း"],
+        "answer": "မျက်လုံးလေ့ကျင့်ခြင်း"
+      },
+      {
+        "id": 11,
+        "question": "မျက်စိနာခြင်းဖြစ်လာလျှင် မည်သည့်အရာကို လုပ်သင့်သလဲ?",
+        "options": ["အေးမြသောရေသုံးခြင်း", "မျက်စိကို ပိုအသုံးချခြင်း", "လျှပ်စစ်မီးမသုံးခြင်း"],
+        "answer": "အေးမြသောရေသုံးခြင်း"
+      },
+      {
+        "id": 12,
+        "question": "မျက်မှန်ရွေးချယ်ရာတွင် မည်သည့်အချက်များအား ထည့်သွင်းစဉ်းစားသင့်သလဲ?",
+        "options": ["စျေးနှုန်းနှင့် ဒီဇိုင်း", "မျက်စိအတွက် ကိုက်ညီမှု", "လူကြိုက်များမှု"],
+        "answer": "မျက်စိအတွက် ကိုက်ညီမှု"
+      },
+      {
+        "id": 13,
+        "question": "မျက်စိအား ကောင်းမွန်စေရန် မည်သည့်အချက်ကို ဦးစားပေးလုပ်သင့်သလဲ?",
+        "options": ["မျက်စိလေ့ကျင့်ခြင်း", "မျက်စိနှေးမြန်စစ်ဆေးခြင်း", "မျက်စိကို ပိုအသုံးချခြင်း"],
+        "answer": "မျက်စိလေ့ကျင့်ခြင်း"
+      },
+      {
+        "id": 14,
+        "question": "UV ရောင်ခြည်က မညျက်စိကို မည်သို့ထိခိုက်နိုင်သလဲ?",
+        "options": ["မျက်စိခြောက်သွေ့ခြင်း", "မျက်စိထိခိုက်ခြင်း", "နှစ်ခုစလုံး"],
+        "answer": "နှစ်ခုစလုံး"
+      },
+      {
+        "id": 15,
+        "question": "မျက်စိကို ကာကွယ်ရန် မည်သည့်မျက်မှန်ကို သုံးသင့်သလဲ?",
+        "options": ["UV ကာမျက်မှန်", "ပုံမှန်မျက်မှန်", "တန်ဖိုးနည်းမျက်မှန်"],
+        "answer": "UV ကာမျက်မှန်"
+      },
+      {
+        "id": 16,
+        "question": "မျက်စိအား အနည်းဆုံး ဘယ်နှစ်ခါစစ်ဆေးသင့်သလဲ?",
+        "options": ["နှစ်စဉ်တစ်ကြိမ်", "လစဉ်တစ်ကြိမ်", "တစ်သက်တစ်ကြိမ်"],
+        "answer": "နှစ်စဉ်တစ်ကြိမ်"
+      },
+      {
+        "id": 17,
+        "question": "မျက်စိစစ်ဆေးခြင်းအတွက် မည်သည့်သူကို ခေါ်ယူသင့်သလဲ?",
+        "options": ["မျက်မှန်ရောင်းသူ", "မျက်စိဆရာဝန်", "ဖန်ခွက်လုပ်သူ"],
+        "answer": "မျက်စိဆရာဝန်"
+      },
+      {
+        "id": 18,
+        "question": "မျက်စိအားကောင်းမွန်ရန် မည်သည့်အရာကို ရှောင်ကြဉ်သင့်သလဲ?",
+        "options": ["Screen ကြည့်ချိန်များခြင်း", "UV မျက်မှန်ဝတ်ခြင်း", "အဝီစိစားခြင်း"],
+        "answer": "Screen ကြည့်ချိန်များခြင်း"
+      },
+      {
+        "id": 19,
+        "question": "မျက်မှန်မဝတ်ရင် မည်သည့်ပြဿနာဖြစ်နိုင်သလဲ?",
+        "options": ["မျက်စိမကြည်လာခြင်း", "မျက်စိအနာဖြစ်ခြင်း", "နားမကြားခြင်း"],
+        "answer": "မျက်စိမကြည်လာခြင်း"
+      },
+      {
+        "id": 20,
+        "question": "မျက်စိကို အကောင်းဆုံးထိန်းသိမ်းနိုင်ရန် မည်သည့်အမှုဆောင်မှုကို လုပ်သင့်သလဲ?",
+        "options": ["မျက်စိစစ်ဆေးခြင်း", "မျက်စိကို အမြဲအလုပ်လုပ်စေခြင်း", "Screen ကြည့်ချိန်များခြင်း"],
+        "answer": "မျက်စိစစ်ဆေးခြင်း"
+      }
+    ],
+
+    "eyeglasses": [
+      {
+        "id": 1,
+        "name": "Classic Wayframe",
+        "price": 129.99,
+        "stock": 45,
+        "description": "Timeless rectangular frames in acetate, perfect for everyday wear",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&q=80",
+        "color": "Black"
+      },
+      {
+        "id": 2,
+        "name": "Round Retro",
+        "price": 149.99,
+        "stock": 32,
+        "description": "Vintage-inspired round metal frames with adjustable nose pads",
+        "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&q=80",
+        "color": "Gold"
+      },
+      {
+        "id": 3,
+        "name": "Modern Aviator",
+        "price": 179.99,
+        "stock": 28,
+        "description": "Contemporary take on the classic aviator style with thin metal frames",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80",
+        "color": "Silver"
+      },
+      {
+        "id": 4,
+        "name": "Cat Eye Elite",
+        "price": 159.99,
+        "stock": 37,
+        "description": "Elegant cat-eye frames with subtle crystal accents",
+        "image": "https://images.unsplash.com/photo-1633621641966-23836fcafd7f?auto=format&fit=crop&q=80",
+        "color": "Tortoise"
+      },
+      {
+        "id": 5,
+        "name": "Square Business",
+        "price": 189.99,
+        "stock": 41,
+        "description": "Professional square frames with anti-glare coating",
+        "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&q=80",
+        "color": "Navy"
+      },
+      {
+        "id": 6,
+        "name": "Oval Comfort",
+        "price": 139.99,
+        "stock": 25,
+        "description": "Lightweight oval frames with spring hinges for all-day comfort",
+        "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?auto=format&fit=crop&q=80",
+        "color": "Brown"
+      },
+      {
+        "id": 7,
+        "name": "Tech Rimless",
+        "price": 199.99,
+        "stock": 20,
+        "description": "Minimalist rimless design with titanium temples",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80",
+        "color": "Gunmetal"
+      },
+      {
+        "id": 8,
+        "name": "Geometric Trend",
+        "price": 169.99,
+        "stock": 33,
+        "description": "Bold geometric shapes with premium acetate construction",
+        "image": "https://images.unsplash.com/photo-1577744486770-2f494dfdef27?auto=format&fit=crop&q=80",
+        "color": "Crystal"
+      },
+      {
+        "id": 9,
+        "name": "Sport Shield",
+        "price": 209.99,
+        "stock": 22,
+        "description": "Athletic-inspired frames with rubber grip temples",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80",
+        "color": "Red"
+      },
+      {
+        "id": 10,
+        "name": "Eco Bamboo",
+        "price": 229.99,
+        "stock": 18,
+        "description": "Sustainable bamboo frames with polarized lenses",
+        "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&q=80",
+        "color": "Natural"
+      },
+      {
+        "id": 11,
+        "name": "Designer Butterfly",
+        "price": 249.99,
+        "stock": 15,
+        "description": "Luxurious butterfly frames with gradient tint",
+        "image": "https://images.unsplash.com/photo-1633621641966-23836fcafd7f?auto=format&fit=crop&q=80",
+        "color": "Rose Gold"
+      },
+      {
+        "id": 12,
+        "name": "Urban Rectangle",
+        "price": 159.99,
+        "stock": 42,
+        "description": "Modern rectangular frames with matte finish",
+        "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&q=80",
+        "color": "Matte Black"
+      },
+      {
+        "id": 13,
+        "name": "Classic Horn",
+        "price": 189.99,
+        "stock": 27,
+        "description": "Traditional horn-rimmed style with modern materials",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&q=80",
+        "color": "Tortoise Shell"
+      },
+      {
+        "id": 14,
+        "name": "Slim Metal",
+        "price": 144.99,
+        "stock": 38,
+        "description": "Ultra-thin metal frames for a barely-there feel",
+        "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?auto=format&fit=crop&q=80",
+        "color": "Bronze"
+      },
+      {
+        "id": 15,
+        "name": "Oversized Glam",
+        "price": 219.99,
+        "stock": 21,
+        "description": "Statement oversized frames with decorative temples",
+        "image": "https://images.unsplash.com/photo-1577744486770-2f494dfdef27?auto=format&fit=crop&q=80",
+        "color": "Purple"
+      },
+      {
+        "id": 16,
+        "name": "Flex Titanium",
+        "price": 259.99,
+        "stock": 19,
+        "description": "Flexible titanium frames with memory metal technology",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80",
+        "color": "Titanium"
+      },
+      {
+        "id": 17,
+        "name": "Vintage Round",
+        "price": 169.99,
+        "stock": 31,
+        "description": "Classic round frames with keyhole bridge",
+        "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&q=80",
+        "color": "Antique Gold"
+      },
+      {
+        "id": 18,
+        "name": "Modern Clubmaster",
+        "price": 179.99,
+        "stock": 29,
+        "description": "Updated take on the classic clubmaster style",
+        "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&q=80",
+        "color": "Black/Gold"
+      },
+      {
+        "id": 19,
+        "name": "Sporty Half-Rim",
+        "price": 164.99,
+        "stock": 35,
+        "description": "Athletic half-rim design with rubber nose pads",
+        "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&q=80",
+        "color": "Blue/Silver"
+      },
+      {
+        "id": 20,
+        "name": "Premium Wood",
+        "price": 289.99,
+        "stock": 12,
+        "description": "Handcrafted wooden frames with premium finish",
+        "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0?auto=format&fit=crop&q=80",
+        "color": "Walnut"
+      }
+    ],
+    
+    "products": [
+      {
+        "id": 1,
+        "name": "Romy Glasses",
+        "price": 49.99,
+        "stock": 20,
+        "star": 4.5,
+        "description": "Stylish, lightweight glasses that provide a perfect fit with a sleek, modern design. Ideal for everyday use or as a fashion statement.",
+        "categories": ["Men", "Best Seller", "UV Protection"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pl7485_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl7487_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl7486_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Black", "Transparent", "Navy"]
+      },
+      {
+        "id": 2,
+        "name": "St Michel Glasses",
+        "price": 35.99,
+        "stock": 15,
+        "star": 4.7,
+        "description": "Classic and timeless design with premium metal frames. Perfect for those who appreciate a touch of sophistication.",
+        "categories": ["Women", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/mt6567_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6568_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6569_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Gold", "Silver", "Black"]
+      },
+      {
+        "id": 3,
+        "name": "Blue Light Blocking Glasses",
+        "price": 29.99,
+        "stock": 30,
+        "star": 4.8,
+        "description": "These glasses are designed to reduce eye strain from digital screens, helping you stay productive and comfortable for longer.",
+        "categories": ["Men", "Women", "Blue Light Blocking", "Best Seller"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pm1628_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm0548_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm1629_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Transparent", "Black", "Blue"]
+      },
+      {
+        "id": 4,
+        "name": "Good Vibrations",
+        "price": 59.99,
+        "stock": 10,
+        "star": 4.6,
+        "description": "With its bold design and premium materials, this frame exudes a confident style that's perfect for the fashion-forward individual.",
+        "categories": ["Men", "Polarized", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/smt6169_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/smt6170_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/smt6171_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Black", "Gold", "Silver"]
+      },
+      {
+        "id": 5,
+        "name": "Oversized Fashion Glasses",
+        "price": 42.99,
+        "stock": 25,
+        "star": 4.4,
+        "description": "Make a statement with these oversized frames that are perfect for a bold, fashion-forward look. Ideal for sunny days or adding some edge to your outfit.",
+        "categories": ["Women", "Best Seller", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/front/gray/pm1628.jpg?q=70&im=Resize,width=360,height=180,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Pink", "Black", "White"]
+      },
+      {
+        "id": 6,
+        "name": "Parasol Sunglasses",
+        "price": 55.00,
+        "stock": 12,
+        "star": 4.7,
+        "description": "These high-quality sunglasses provide ultimate UV protection while offering a chic, contemporary style. Perfect for outdoor adventures.",
+        "categories": ["Women", "Polarized", "UV Protection"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/spl8008_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl8009_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl8010_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Light Tortoise", "Tortoise", "Black"]
+      },
+      {
+        "id": 7,
+        "name": "Ember Glasses",
+        "price": 31.99,
+        "stock": 18,
+        "star": 4.3,
+        "description": "A sleek and minimalist design that enhances any look, with versatile frames that suit both casual and professional outfits.",
+        "categories": ["Men", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/mt6508_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6507_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6509_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Transparent", "Silver", "Black"]
+      },
+      {
+        "id": 8,
+        "name": "Notting Hill Sunglasses",
+        "price": 47.50,
+        "stock": 22,
+        "star": 4.6,
+        "description": "Add a vintage touch to your summer wardrobe with these retro-inspired sunglasses. Designed for style and comfort.",
+        "categories": ["Women", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pl4962_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl7785_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl4961_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Black", "Clear", "Tortoise"]
+      },
+      {
+        "id": 9,
+        "name": "Polarized Outdoor Sunglasses",
+        "price": 65.00,
+        "stock": 8,
+        "star": 4.9,
+        "description": "Specially designed for outdoor activities, these polarized sunglasses offer enhanced visual clarity and protect your eyes from harmful UV rays.",
+        "categories": ["Men", "Polarized", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/luspl00477_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/luspl00478_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/luspl00479_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Tortoise", "Mettle Black", "Black"]
+      },
+      {
+        "id": 10,
+        "name": "Vintage Cat Eye Glasses",
+        "price": 38.99,
+        "stock": 14,
+        "star": 4.5,
+        "description": "These cat-eye frames offer a bold retro aesthetic while providing a unique twist with modern materials for comfort and durability.",
+        "categories": ["Women", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/mt7926_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt7927_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt7928_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Rose Gold", "Gold", "Black"]
+      },
+      {
+        "id": 11,
+        "name": "Horizon Aviator Sunglasses",
+        "price": 62.50,
+        "stock": 9,
+        "star": 4.8,
+        "description": "Classic aviator style with polarized lenses for glare reduction. Perfect for a timeless look with modern functionality.",
+        "categories": ["Men", "Polarized", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/spl9012_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl9013_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl9014_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Gunmetal", "Gold", "Black"]
+      },
+      {
+        "id": 12,
+        "name": "Crystal Clear Glasses",
+        "price": 33.99,
+        "stock": 20,
+        "star": 4.4,
+        "description": "Sleek, transparent frames for a modern minimalist look. Lightweight and versatile for any occasion.",
+        "categories": ["Men", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pm1630_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm1631_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm1632_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Clear", "Gray", "Blue"]
+      },
+      {
+        "id": 13,
+        "name": "Twilight Round Glasses",
+        "price": 45.00,
+        "stock": 17,
+        "star": 4.6,
+        "description": "Elegant round frames with a soft, feminine touch. Ideal for adding a subtle sophistication to your style.",
+        "categories": ["Women", "Best Seller"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pl7490_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl7491_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl7492_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Rose", "Black", "Tortoise"]
+      },
+      {
+        "id": 14,
+        "name": "Peak Performance Sunglasses",
+        "price": 68.99,
+        "stock": 7,
+        "star": 4.9,
+        "description": "Durable sunglasses built for outdoor adventures, offering polarized lenses and UV protection for ultimate clarity.",
+        "categories": ["Men", "Polarized", "UV Protection"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/smt6172_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/smt6173_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/smt6174_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Matte Black", "Green", "Gray"]
+      },
+      {
+        "id": 15,
+        "name": "Velvet Square Glasses",
+        "price": 39.99,
+        "stock": 13,
+        "star": 4.5,
+        "description": "Bold square frames with a luxurious feel. Perfect for making a chic statement.",
+        "categories": ["Women", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/mt6570_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6571_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt6572_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Purple", "Black", "Tortoise"]
+      },
+      {
+        "id": 16,
+        "name": "Nomad Explorer Sunglasses",
+        "price": 57.50,
+        "stock": 11,
+        "star": 4.7,
+        "description": "Rugged design with full UV protection for the modern explorer. Ideal for outdoor enthusiasts.",
+        "categories": ["Men", "Sunglasses", "UV Protection"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/spl8011_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl8012_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl8013_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Brown", "Black", "Olive"]
+      },
+      {
+        "id": 17,
+        "name": "Serenity Blue Light Glasses",
+        "price": 32.50,
+        "stock": 28,
+        "star": 4.8,
+        "description": "Protect your eyes from screens with these chic frames, designed for comfort during long work hours.",
+        "categories": ["Women", "Blue Light Blocking", "Best Seller"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pm1633_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm1634_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pm1635_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Blue", "Transparent", "Black"]
+      },
+      {
+        "id": 18,
+        "name": "Retro Wayfarer Sunglasses",
+        "price": 49.99,
+        "stock": 15,
+        "star": 4.6,
+        "description": "Iconic wayfarer style with a vintage twist. Perfect for a classic, standout look.",
+        "categories": ["Men", "Sunglasses"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/pl4965_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl4966_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/pl4966_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Black", "Tortoise", "Gray"]
+      },
+      {
+        "id": 19,
+        "name": "Eclipse Oval Glasses",
+        "price": 37.99,
+        "stock": 19,
+        "star": 4.4,
+        "description": "Subtle oval frames for a sophisticated look. Lightweight and perfect for everyday elegance.",
+        "categories": ["Women", "New Arrivals"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/mt7930_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt7931_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/mt7932_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Silver", "Gold", "Black"]
+      },
+      {
+        "id": 20,
+        "name": "Luna Round Sunglasses",
+        "price": 52.99,
+        "stock": 16,
+        "star": 4.6,
+        "description": "Elegant round frames with superior UV protection for all-day wear. A stylish choice for sunny days.",
+        "categories": ["Women", "Sunglasses", "UV Protection"],
+        "image": [
+          "https://img.ebdcdn.com/product/frame/gray/spl9021_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl9022_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+          "https://img.ebdcdn.com/product/frame/gray/spl9023_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+        ],
+        "colors": ["Matte Black", "Bronze", "Tortoise"]
+      }
+      
+    ],
+      
+      
+     "lens": [
+
+      
+  {
+    "id": 1,
+    "name": "UltraClear Blue Light Lenses",
+    "price": 29.99,
+    "star": 4.7,
+    "description": "Reduces blue light exposure, ideal for digital screen users.",
+    "categories": ["Blue Light Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6809_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6810_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "BlueDefend Pro Lenses",
+    "price": 34.99,
+    "star": 4.6,
+    "description": "Advanced blue light blocking with anti-glare coating.",
+    "categories": ["Blue Light Glasses", "Anti-Reflective Coating"],
+    "color": ["Clear", "Light Gray", "Amber"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mts6092_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mts6093_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 45
+  },
+  {
+    "id": 3,
+    "name": "NightShield Blue Light Lenses",
+    "price": 39.99,
+    "star": 4.8,
+    "description": "Perfect for nighttime screen use, reduces eye strain.",
+    "categories": ["Blue Light Glasses"],
+    "color": ["Yellow Tint", "Clear", "Amber"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/hmt0098_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/hmt0099_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 60
+  },
+  {
+    "id": 4,
+    "name": "ClearView Blue Light Lenses",
+    "price": 27.99,
+    "star": 4.5,
+    "description": "Lightweight and affordable blue light protection.",
+    "categories": ["Blue Light Glasses"],
+    "color": ["Clear", "Light Gray", "Amber"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6920_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6921_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 70
+  },
+  {
+    "id": 5,
+    "name": "BlueGuard Max Lenses",
+    "price": 44.99,
+    "star": 4.7,
+    "description": "Premium blue light blocking with scratch-resistant coating.",
+    "categories": ["Blue Light Glasses", "Coatings"],
+    "color": ["Clear", "Light Blue", "Amber"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6920_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6921_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 55
+  },
+  {
+    "id": 6,
+    "name": "Photochromic Transition Lenses",
+    "price": 49.99,
+    "star": 4.8,
+    "description": "Automatically adjusts to light conditions, darkens in sunlight.",
+    "categories": ["Transitions®"],
+    "color": ["Clear to Gray", "Clear to Brown", "Clear to Green"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6809_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6810_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "name": "SunAdapt Pro Lenses",
+    "price": 54.99,
+    "star": 4.9,
+    "description": "Fast-transitioning lenses for outdoor activities.",
+    "categories": ["Transitions®"],
+    "color": ["Clear to Dark Gray", "Clear to Green", "Clear to Brown"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6309_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6310_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "name": "LightShift Photochromic Lenses",
+    "price": 47.99,
+    "star": 4.7,
+    "description": "Smooth transition between indoor and outdoor lighting.",
+    "categories": ["Transitions®"],
+    "color": ["Clear to Gray", "Clear to Brown", "Clear to Green"],
+    "image": [
+      "https://example.com/lightshift1.jpg",
+      "https://example.com/lightshift2.jpg"
+    ],
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "name": "ClearToDark Photochromic Lenses",
+    "price": 59.99,
+    "star": 4.8,
+    "description": "High-performance lenses for extreme light changes.",
+    "categories": ["Transitions®"],
+    "color": ["Clear to Black", "Clear to Brown", "Clear to Green"],
+    "image": [
+      "https://example.com/cleartodark1.jpg",
+      "https://example.com/cleartodark2.jpg"
+    ],
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "name": "Adaptive Sun Lenses",
+    "price": 49.99,
+    "star": 4.6,
+    "description": "Budget-friendly photochromic lenses with UV protection.",
+    "categories": ["Transitions®"],
+    "color": ["Clear to Gray", "Clear to Brown", "Clear to Green"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6920_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6921_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 50
+  },
+  {
+    "id": 11,
+    "name": "Bifocal Reading Lenses",
+    "price": 34.99,
+    "star": 4.5,
+    "description": "Ideal for near and far vision correction.",
+    "categories": ["Bifocal Lenses", "Reading Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://img.ebdcdn.com/product/frame/gray/mt6920_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
+      "https://img.ebdcdn.com/product/frame/gray/mt6921_0.jpg?q=85&im=Resize,width=640,height=320,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0"
+    ],
+    "stock": 65
+  },
+  {
+    "id": 12,
+    "name": "Progressive Comfort Lenses",
+    "price": 69.99,
+    "star": 4.7,
+    "description": "Seamless transition between near, intermediate, and far vision.",
+    "categories": ["Progressive Lenses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/progressive1.jpg",
+      "https://example.com/progressive2.jpg"
+    ],
+    "stock": 40
+  },
+  {
+    "id": 13,
+    "name": "Bifocal Plus Lenses",
+    "price": 39.99,
+    "star": 4.6,
+    "description": "Enhanced bifocal lenses for sharper vision.",
+    "categories": ["Bifocal Lenses", "Reading Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/bifocalplus1.jpg",
+      "https://example.com/bifocalplus2.jpg"
+    ],
+    "stock": 55
+  },
+  {
+    "id": 14,
+    "name": "Progressive Ultra Lenses",
+    "price": 79.99,
+    "star": 4.8,
+    "description": "High-definition progressive lenses for all distances.",
+    "categories": ["Progressive Lenses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/progressiveultra1.jpg",
+      "https://example.com/progressiveultra2.jpg"
+    ],
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "name": "Bifocal Flex Lenses",
+    "price": 44.99,
+    "star": 4.5,
+    "description": "Flexible bifocal lenses for active lifestyles.",
+    "categories": ["Bifocal Lenses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/bifocalflex1.jpg",
+      "https://example.com/bifocalflex2.jpg"
+    ],
+    "stock": 50
+  },
+  {
+    "id": 16,
+    "name": "High-Index Lenses 1.74",
+    "price": 79.99,
+    "star": 4.9,
+    "description": "Thin and lightweight lenses for strong prescriptions.",
+    "categories": ["KODAK Lenses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/highindex1.jpg",
+      "https://example.com/highindex2.jpg"
+    ],
+    "stock": 20
+  },
+  {
+    "id": 17,
+    "name": "Polarized Sun Lenses",
+    "price": 39.99,
+    "star": 4.6,
+    "description": "Reduces glare and enhances clarity for outdoor activities.",
+    "categories": ["Polarized Sunglasses"],
+    "color": ["Gray", "Brown", "Green"],
+    "image": [
+      "https://example.com/polarized1.jpg",
+      "https://example.com/polarized2.jpg"
+    ],
+    "stock": 60
+  },
+  {
+    "id": 18,
+    "name": "Single Vision Clear Lenses",
+    "price": 24.99,
+    "star": 4.5,
+    "description": "Basic single vision lenses for everyday use.",
+    "categories": ["Reading Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/singlevision1.jpg",
+      "https://example.com/singlevision2.jpg"
+    ],
+    "stock": 75
+  },
+  {
+    "id": 19,
+    "name": "Anti-Fatigue Single Vision Lenses",
+    "price": 29.99,
+    "star": 4.7,
+    "description": "Reduces eye strain for prolonged screen use.",
+    "categories": ["Reading Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/antifatigue1.jpg",
+      "https://example.com/antifatigue2.jpg"
+    ],
+    "stock": 50
+  },
+  {
+    "id": 20,
+    "name": "UVShield Single Vision Lenses",
+    "price": 34.99,
+    "star": 4.6,
+    "description": "Single vision lenses with full UV protection.",
+    "categories": ["Reading Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/uvshield1.jpg",
+      "https://example.com/uvshield2.jpg"
+    ],
+    "stock": 45
+  },
+  {
+    "id": 21,
+    "name": "Digital Screen Protection Lenses",
+    "price": 29.99,
+    "star": 4.8,
+    "description": "Reduces eye strain from digital screens.",
+    "categories": ["Blue Light Glasses"],
+    "color": ["Clear", "Amber", "Light Gray"],
+    "image": [
+      "https://example.com/digital1.jpg",
+      "https://example.com/digital2.jpg"
+    ],
+    "stock": 60
+  }
+],
+
+
+    
+
+ "categories": [
+  {
+    "id": 1,
+    "title": "All",
+    "details": {
+      "description": "မျက်မှန်နှင့် မျက်ကပ်မှန်အမျိုးအစားအားလုံးကို စုစည်းထားသော ကဏ္ဍ။",
+      "benefits": ["ထုတ်ကုန်အားလုံးကို ရှာဖွေနိုင်သည်။", "ရွေးချယ်စရာများကို လေ့လာရန် ကောင်းမွန်သည်။"],
+      "drawbacks": ["သီးသန့်လိုအပ်ချက်များအတွက် မသင့်တော်ပါ။"],
+      "useCases": ["အထွေထွေရှာဖွေခြင်း။", "မျက်မှန်အမျိုးအစားအားလုံးကို နှိုင်းယှဉ်ခြင်း။"],
+      "priceRange": { "min": 20, "max": 500, "currency": "USD" }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Polarized Sunglasses",
+    "details": {
+      "description": "အလင်းပြန်ခြင်းကို လျှော့ချပေးသော နေကာမျက်မှန်များ။ မျက်လုံးပင်ပန်းမှုကို လျှော့ချပေးသည်။",
+      "benefits": ["မြင်ကွင်းပိုမိုရှင်းလင်းစေသည်။", "မျက်လုံးပင်ပန်းမှုကို လျှော့ချပေးသည်။"],
+      "drawbacks": ["LCD ဖန်သားပြင်များကို မှုန်ဝါးစေနိုင်သည်။"],
+      "useCases": ["ကားမောင်းခြင်း။", "ငါးဖမ်းခြင်း။"],
+      "priceRange": { "min": 30, "max": 150, "currency": "USD" }
+    }
+  },
+  {
+    "id": 3,
+    "title": "Blue Light Glasses",
+    "details": {
+      "description": "စခရင်များမှ ထွက်သော ပြာရောင်အလင်းကို စစ်ထုတ်ပေးသော မျက်မှန်များ။ မျက်လုံးပင်ပန်းမှုကို လျှော့ချပေးသည်။",
+      "benefits": ["ဒီဂျစ်တယ်မျက်လုံးပင်ပန်းမှုကို လျှော့ချပေးသည်။", "အိပ်စက်မှုကို ပိုမိုကောင်းမွန်စေနိုင်သည်။"],
+      "drawbacks": ["အဝါရောင်အရိပ်အနည်းငယ်ဖြစ်စေနိုင်သည်။"],
+      "useCases": ["ကွန်ပျူတာအသုံးပြုခြင်း။", "ဂိမ်းကစားခြင်း။"],
+      "priceRange": { "min": 25, "max": 100, "currency": "USD" }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Reading Glasses",
+    "details": {
+      "description": "အနီးကပ်မြင်ကွင်းအတွက် သီးသန့်ပြုလုပ်ထားသော မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် အထောက်အကူပြုသည်။",
+      "benefits": ["စျေးနှုန်းချိုသာသည်။", "စာဖတ်ခြင်းကို ပိုမိုလွယ်ကူစေသည်။"],
+      "drawbacks": ["ဝေးကွာသောမြင်ကွင်းအတွက် မသင့်တော်ပါ။"],
+      "useCases": ["စာဖတ်ခြင်း။", "ချုပ်ခြင်း။"],
+      "priceRange": { "min": 10, "max": 50, "currency": "USD" }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Transitions®",
+    "details": {
+      "description": "နေရောင်ခြည်နှင့်ထိတွေ့ပါက အလိုအလျောက်မှောင်လာသော မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် ကောင်းမွန်သည်။",
+      "benefits": ["အလင်းအမျိုးမျိုးအတွက် သင့်တော်သည်။", "UV ကာကွယ်မှုပေးသည်။"],
+      "drawbacks": ["အေးသောအခြေအနေများတွင် နှေးကွေးနိုင်သည်။"],
+      "useCases": ["နေ့စဉ်ဝတ်ဆင်ခြင်း။", "အပြင်ဘက်လှုပ်ရှားမှုများ။"],
+      "priceRange": { "min": 80, "max": 250, "currency": "USD" }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Bifocal Lenses",
+    "details": {
+      "description": "ဝေးကွာသောမြင်ကွင်းနှင့် အနီးကပ်မြင်ကွင်းအတွက် နှစ်မျိုးသုံး မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် အထောက်အကူပြုသည်။",
+      "benefits": ["စျေးနှုန်းချိုသာသည်။", "မျက်မှန်တစ်ခုတည်းဖြင့် အသုံးပြုနိုင်သည်။"],
+      "drawbacks": ["မျဉ်းကြောင်းများကို မြင်နိုင်သည်။", "အလယ်အလတ်မြင်ကွင်းအတွက် မသင့်တော်ပါ။"],
+      "useCases": ["စာဖတ်ခြင်းနှင့် ကားမောင်းခြင်း။"],
+      "priceRange": { "min": 50, "max": 200, "currency": "USD" }
+    }
+  },
+  {
+    "id": 7,
+    "title": "Progressive Lenses",
+    "details": {
+      "description": "ဝေးကွာသောမြင်ကွင်း၊ အလယ်အလတ်မြင်ကွင်းနှင့် အနီးကပ်မြင်ကွင်းအတွက် ချောမွေ့သော မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် ကောင်းမွန်သည်။",
+      "benefits": ["သဘာဝမြင်ကွင်းကို ပေးစွမ်းသည်။", "မျဉ်းကြောင်းများ မပါဝင်ပါ။"],
+      "drawbacks": ["အသုံးပြုရန် လိုက်လျောညီထွေဖြစ်ရန် အချိန်ပိုယူနိုင်သည်။", "စျေးနှုန်းမြင့်မားသည်။"],
+      "useCases": ["တစ်နေ့တာဝတ်ဆင်ခြင်း။", "ကွန်ပျူတာအသုံးပြုခြင်း။"],
+      "priceRange": { "min": 100, "max": 400, "currency": "USD" }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Prism Lenses",
+    "details": {
+      "description": "မျက်လုံးအချိုးညီမျှမှုကို ပြုပြင်ပေးသော မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် အထောက်အကူပြုသည်။",
+      "benefits": ["နှစ်ထပ်မြင်ခြင်းကို လျှော့ချပေးသည်။", "ညှိနှိုင်းမှုကို ပိုမိုကောင်းမွန်စေသည်။"],
+      "drawbacks": ["တိကျသောတိုင်းတာမှုလိုအပ်သည်။"],
+      "useCases": ["မျက်လုံးစိုက်ခြင်းကုသရန်။"],
+      "priceRange": { "min": 80, "max": 300, "currency": "USD" }
+    }
+  },
+  {
+    "id": 9,
+    "title": "KODAK Lenses",
+    "details": {
+      "description": "အရည်အသွေးမြင့် မျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် ကောင်းမွန်သည်။",
+      "benefits": ["ပိုမိုကောင်းမွန်သော မြင်ကွင်းကို ပေးစွမ်းသည်။", "ခံနိုင်ရည်ရှိသည်။"],
+      "drawbacks": ["စျေးနှုန်းမြင့်မားသည်။"],
+      "useCases": ["ဓာတ်ပုံကူးခြင်း။", "နေ့စဉ်ဝတ်ဆင်ခြင်း။"],
+      "priceRange": { "min": 90, "max": 350, "currency": "USD" }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Coatings",
+    "details": {
+      "description": "မျက်မှန်များကို ပိုမိုကောင်းမွန်စေရန် အလွှာများဖြင့် ဖုံးအုပ်ထားခြင်း။ မျက်လုံးကျန်းမာရေးအတွက် အထောက်အကူပြုသည်။",
+      "benefits": ["သက်တမ်းပိုမိုရှည်စေသည်။", "အဆင်ပြေမှုကို ပိုမိုကောင်းမွန်စေသည်။"],
+      "drawbacks": ["စျေးနှုန်းပိုမိုမြင့်မားသည်။"],
+      "useCases": ["မျက်မှန်အမျိုးအစားအားလုံးအတွက်။"],
+      "priceRange": { "min": 20, "max": 100, "currency": "USD" }
+    }
+  },
+  {
+    "id": 11,
+    "title": "Anti-Reflective Coating",
+    "details": {
+      "description": "အလင်းပြန်ခြင်းကို လျှော့ချပေးသော အလွှာ။ မျက်လုံးကျန်းမာရေးအတွက် ကောင်းမွန်သည်။",
+      "benefits": ["ညဘက်မြင်ကွင်းကို ပိုမိုကောင်းမွန်စေသည်။", "မျက်လုံးပင်ပန်းမှုကို လျှော့ချပေးသည်။"],
+      "drawbacks": ["ခြစ်ရာများဖြစ်နိုင်သည်။"],
+      "useCases": ["ညဘက်ကားမောင်းခြင်း။", "စခရင်အသုံးပြုခြင်း။"],
+      "priceRange": { "min": 30, "max": 80, "currency": "USD" }
+    }
+  },
+  {
+    "id": 12,
+    "title": "Mirrored Sunglasses",
+    "details": {
+      "description": "အလင်းပြန်ခြင်းကို ကာကွယ်ပေးသော နေကာမျက်မှန်များ။ မျက်လုံးကျန်းမာရေးအတွက် ကောင်းမွန်သည်။",
+      "benefits": ["ဖက်ရှင်ကျသည်။", "အလင်းပြန်ခြင်းကို ပိုမိုကာကွယ်ပေးသည်။"],
+      "drawbacks": ["အလင်းပြန်အလွှာများ ခြစ်ရာဖြစ်နိုင်သည်။"],
+      "useCases": ["အပြင်ဘက်အားကစား။", "ဖက်ရှင်အတွက်။"],
+      "priceRange": { "min": 40, "max": 180, "currency": "USD" }
+    }
+  }
+],
+
+     "Voucher" :[
+  {
+    "voucher_id": "OPT12345",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+959123456789",
+    "product_name": "Blue Light Blocking Glasses",
+    "category": "Eyeglasses",
+    "quantity": 1,
+    "price": 120,
+    "discount": 10,
+    "final_price": 110,
+    "valid_until": "2025-06-30",
+    "payment_options": ["KBZ Pay", "UAB Pay", "AYA Pay", "CB Pay", "Yoma Pay", "Cash Only"],
+    "status": "Pending"
+  },
+  {
+    "voucher_id": "OPT12346",
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "phone": "+959987654321",
+    "product_name": "Polarized Sunglasses",
+    "category": "Sunglasses",
+    "quantity": 2,
+    "price": 200,
+    "discount": 20,
+    "final_price": 180,
+    "valid_until": "2025-07-15",
+    "payment_options": ["KBZ Pay", "UAB Pay", "AYA Pay", "CB Pay", "Yoma Pay", "Cash Only"],
+    "status": "Paid"
+  },
+  {
+    "voucher_id": "OPT12347",
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "phone": "+959555666777",
+    "product_name": "Anti-Glare Reading Glasses",
+    "category": "Lenses",
+    "quantity": 1,
+    "price": 150,
+    "discount": 15,
+    "final_price": 135,
+    "valid_until": "2025-08-20",
+    "payment_options": ["KBZ Pay", "UAB Pay", "AYA Pay", "CB Pay", "Yoma Pay", "Cash Only"],
+    "status": "Pending"
+  },
+  {
+    "voucher_id": "OPT12348",
+    "name": "Sophia Wilson",
+    "email": "sophia.wilson@example.com",
+    "phone": "+959112233445",
+    "product_name": "Prescription Contact Lenses",
+    "category": "Lenses",
+    "quantity": 3,
+    "price": 300,
+    "discount": 30,
+    "final_price": 270,
+    "valid_until": "2025-09-10",
+    "payment_options": ["KBZ Pay", "UAB Pay", "AYA Pay", "CB Pay", "Yoma Pay", "Cash Only"],
+    "status": "Expired"
+  },
+  {
+    "voucher_id": "OPT12349",
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "phone": "+959223344556",
+    "product_name": "Fashion Aviator Sunglasses",
+    "category": "Sunglasses",
+    "quantity": 1,
+    "price": 250,
+    "discount": 25,
+    "final_price": 225,
+    "valid_until": "2025-10-05",
+    "payment_options": ["KBZ Pay", "UAB Pay", "AYA Pay", "CB Pay", "Yoma Pay", "Cash Only"],
+    "status": "Paid"
+  }
+]
+
+          
+    }
+  
+
+       
+
+    
+    
+
+    
+   
+
+  
+ 
+  
+  
+
